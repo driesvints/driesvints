@@ -1,4 +1,4 @@
-![](./banner.jpeg)
+![](https://github.com/driesvints/driesvints/blob/master/banner.jpeg)
 
 ### Hi there 👋
 
