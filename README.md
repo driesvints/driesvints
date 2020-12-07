@@ -6,10 +6,10 @@ I'm [Dries](https://driesvints.com), open-source maintainer and one of the core 
 
 In my free time I've built and maintain various open-source projects of my own like:
 
-- [Blade UI Kit](https://github.com/blade-ui-kit/blade-ui-kit) - A set of renderless components to utilise in your Laravel Blade views (currently private, get early access if you sponsor)
+- [Blade UI Kit](https://github.com/blade-ui-kit/blade-ui-kit) - A set of renderless components to utilise in your Laravel Blade views
+- [Blade Icons](https://github.com/blade-ui-kit/blade-icons) - Easily use SVG icons in your Laravel Blade views
 - [Laravel.io](https://github.com/laravelio/portal) - The Laravel community portal
 - [Dotfiles](https://github.com/driesvints/dotfiles) - Start using dotfiles on your Mac
-- [Blade Icons](https://github.com/blade-ui-kit/blade-icons) - Easily use SVG icons in your Laravel Blade views
 - [Laravel EventSauce](https://github.com/EventSaucePHP/LaravelEventSauce) - Start using Event Sourcing in your Laravel app
 
 I also co-organise [monthly user group events](https://fullstackbelgium.be/) here in Belgium in the cities of Antwerp and Ghent. And I co-organise the [Full Stack Europe](https://fullstackeurope.com/) conference here in Antwerp. Occasionally, I also speak at conferences and user groups. I'm also working on [a new project for organising events called Eventy](https://eventy.io). And I also blog from time to time about various things on [my website](https://driesvints.com).
