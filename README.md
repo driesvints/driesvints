@@ -8,8 +8,9 @@ In my free time I've built and maintain various open-source projects of my own l
 
 - [Blade UI Kit](https://github.com/blade-ui-kit/blade-ui-kit) - A set of renderless components to utilise in your Laravel Blade views
 - [Blade Icons](https://github.com/blade-ui-kit/blade-icons) - Easily use SVG icons in your Laravel Blade views
-- [Laravel.io](https://github.com/laravelio/portal) - The Laravel community portal
 - [Dotfiles](https://github.com/driesvints/dotfiles) - Start using dotfiles on your Mac
+- [PHP GitHub Sponsors](https://github.com/github-php/sponsors) - A package for PHP to interact with GitHub Sponsors
+- [Laravel.io](https://github.com/laravelio/portal) - The Laravel community portal
 - [Laravel EventSauce](https://github.com/EventSaucePHP/LaravelEventSauce) - Start using Event Sourcing in your Laravel app
 - [VatCalculator](https://github.com/driesvints/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations
 
