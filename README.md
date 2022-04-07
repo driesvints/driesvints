@@ -9,9 +9,7 @@ In my free time I've built and maintain various open-source projects of my own l
 - [Blade UI Kit](https://github.com/blade-ui-kit/blade-ui-kit) - A set of renderless components to utilise in your Laravel Blade views
 - [Blade Icons](https://github.com/blade-ui-kit/blade-icons) - Easily use SVG icons in your Laravel Blade views
 - [Dotfiles](https://github.com/driesvints/dotfiles) - Start using dotfiles on your Mac
-- [PHP GitHub Sponsors](https://github.com/github-php/sponsors) - A package for PHP to interact with GitHub Sponsors
 - [Laravel.io](https://github.com/laravelio/portal) - The Laravel community portal
-- [Laravel EventSauce](https://github.com/EventSaucePHP/LaravelEventSauce) - Start using Event Sourcing in your Laravel app
 - [VatCalculator](https://github.com/driesvints/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations
 
 I also co-organise [monthly user group events](https://fullstackbelgium.be/) here in Belgium in the cities of Antwerp and Ghent. And I co-organise the [Full Stack Europe](https://fullstackeurope.com/) conference here in Antwerp. Occasionally, I also speak at conferences and user groups. And I also blog from time to time about various things on [my website](https://driesvints.com).
