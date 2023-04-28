@@ -6,6 +6,7 @@ I'm [Dries](https://driesvints.com), open-source maintainer and one of the core 
 
 In my free time I've built and maintain various open-source projects of my own like:
 
+- [Lemon Squeezy for Laravel](https://github.com/lmsqueezy/laravel) - A package to easily integrate your Laravel application with Lemon Squeezy
 - [Blade UI Kit](https://github.com/blade-ui-kit/blade-ui-kit) - A set of renderless components to utilise in your Laravel Blade views
 - [Blade Icons](https://github.com/blade-ui-kit/blade-icons) - Easily use SVG icons in your Laravel Blade views
 - [Dotfiles](https://github.com/driesvints/dotfiles) - Start using dotfiles on your Mac
