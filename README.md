@@ -6,8 +6,7 @@ I'm [Dries](https://driesvints.com), open-source maintainer and one of the core 
 
 In my free time I've built and maintain various open-source projects of my own like:
 
-- [Blade UI Kit](https://github.com/blade-ui-kit/blade-ui-kit) - A set of renderless components to utilise in your Laravel Blade views
-- [Blade Icons](https://github.com/blade-ui-kit/blade-icons) - Easily use SVG icons in your Laravel Blade views
+- [Blade Icons](https://github.com/driesvints/blade-icons) - Easily use SVG icons in your Laravel Blade views
 - [Dotfiles](https://github.com/driesvints/dotfiles) - Start using dotfiles on your Mac
 - [Laravel.io](https://github.com/laravelio/portal) - The Laravel community portal
 - [VatCalculator](https://github.com/driesvints/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations
