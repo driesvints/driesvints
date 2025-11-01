@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm [Dries](https://driesvints.com), open-source maintainer and one of the core team members of [Laravel](https://github.com/laravel) where I work as a software engineer. I also do the weekly releases of all the first-party packages.
+I'm [Dries](https://driesvints.com), open-source maintainer and one of the core team members of [Laravel](https://github.com/laravel) where I work as a software engineer.
 
 In my free time I've built and maintain various projects of my own like:
 
