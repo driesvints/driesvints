@@ -10,7 +10,6 @@ In my free time I've built and maintain various projects of my own like:
 - [Blade Icons](https://github.com/driesvints/blade-icons) - Easily use SVG icons in your Laravel Blade views
 - [Dotfiles](https://github.com/driesvints/dotfiles) - Start using dotfiles on your Mac
 - [Laravel.io](https://github.com/laravelio/portal) - The Laravel community portal
-- [VatCalculator](https://github.com/driesvints/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations
 
 Working on open-source is my great joy in life and I want to be able to do that as much and as long as I possible can. I hope you like what I work on and that some of it is useful to you. Thanks for visiting!
 
